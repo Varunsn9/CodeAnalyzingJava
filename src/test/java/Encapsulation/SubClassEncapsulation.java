@@ -6,5 +6,6 @@ public class SubClassEncapsulation {
         superClassEncapsulation.getPrivateStaticVariable();
         //superClassEncapsulation.privateStaticVariable;
         //cannot access private variables
+
     }
 }
