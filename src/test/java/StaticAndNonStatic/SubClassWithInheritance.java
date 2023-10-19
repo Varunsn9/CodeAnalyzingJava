@@ -21,5 +21,6 @@ public class SubClassWithInheritance extends StaticAndNonStaticMembers {
         //staticMethod();//accessing current static method because parent and child having the same method name
         System.out.println(nonStaticVariable);
         nonStaticMethod();
+
     }
 }
