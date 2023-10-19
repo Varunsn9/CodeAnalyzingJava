@@ -23,7 +23,7 @@ public class SuperClassEncapsulation {
         System.out.println("This is a private method");
     }
     public SuperClassEncapsulation(){
-        System.out.println(privateVariable);
+        System.out.println("This is a constructor calling Private Variable "+privateVariable);
     }
     public String getPrivateVariable(){
         return privateVariable;
