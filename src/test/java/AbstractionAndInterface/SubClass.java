@@ -2,7 +2,7 @@ package AbstractionAndInterface;
 
 public class SubClass extends AbstractClass{
 
-    @Override
+     @Override
     public void Display() {
     InterfaceBaseClass.println("hello");
     }
